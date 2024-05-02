@@ -1,0 +1,14 @@
+/Users/will.gibson/Dev/WillGibson/clean-code-april-2024/Measures/bin/Debug/net8.0/Measures
+/Users/will.gibson/Dev/WillGibson/clean-code-april-2024/Measures/bin/Debug/net8.0/Measures.deps.json
+/Users/will.gibson/Dev/WillGibson/clean-code-april-2024/Measures/bin/Debug/net8.0/Measures.runtimeconfig.json
+/Users/will.gibson/Dev/WillGibson/clean-code-april-2024/Measures/bin/Debug/net8.0/Measures.dll
+/Users/will.gibson/Dev/WillGibson/clean-code-april-2024/Measures/bin/Debug/net8.0/Measures.pdb
+/Users/will.gibson/Dev/WillGibson/clean-code-april-2024/Measures/obj/Debug/net8.0/Measures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/will.gibson/Dev/WillGibson/clean-code-april-2024/Measures/obj/Debug/net8.0/Measures.AssemblyInfoInputs.cache
+/Users/will.gibson/Dev/WillGibson/clean-code-april-2024/Measures/obj/Debug/net8.0/Measures.AssemblyInfo.cs
+/Users/will.gibson/Dev/WillGibson/clean-code-april-2024/Measures/obj/Debug/net8.0/Measures.csproj.CoreCompileInputs.cache
+/Users/will.gibson/Dev/WillGibson/clean-code-april-2024/Measures/obj/Debug/net8.0/Measures.dll
+/Users/will.gibson/Dev/WillGibson/clean-code-april-2024/Measures/obj/Debug/net8.0/refint/Measures.dll
+/Users/will.gibson/Dev/WillGibson/clean-code-april-2024/Measures/obj/Debug/net8.0/Measures.pdb
+/Users/will.gibson/Dev/WillGibson/clean-code-april-2024/Measures/obj/Debug/net8.0/Measures.genruntimeconfig.cache
+/Users/will.gibson/Dev/WillGibson/clean-code-april-2024/Measures/obj/Debug/net8.0/ref/Measures.dll
